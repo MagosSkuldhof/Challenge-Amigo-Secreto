@@ -10,7 +10,7 @@ Es una página web que, dados varios nombres de "amigos", hace un sorteo y elige
 
 ## Instalación
 Simplemente descarga los archivos en una sola carpeta, y listo! Lo podrás correr usando tu IDEpreferida para HTML, CSS y JAVASCRIPT.
-Adicionalmente, está dsponible en GitHub Pages: <link>!!!
+Adicionalmente, está dsponible en GitHub Pages: <enlace>!!!
 
 Hecho por Antonio Ismael Vargas Nava, para el curso ONE de Alura.
 Cualquiera puede copiar este programa y hacer uso de el.
