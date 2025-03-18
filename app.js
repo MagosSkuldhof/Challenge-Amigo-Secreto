@@ -12,6 +12,8 @@ function agregarAmigo() {
     listaAmigos.push('amigo'); //Añade el nombre ingresado al array listaAmigos [].
 
     document.getElementById('amigo').value = ""; //Esta línea hace que la caja donde va el nombre se vacíe, pues le "quita" el valor a la Id 'amigo'.
+    mostrarListaAmigos();
+    console.log(listaAmigos);
 }
 
 //Esta función será la que habilite a la página mostrar los nombres de la lista
@@ -25,6 +27,8 @@ function mostrarListaAmigos (){
         li.textContent = amigo; //Esto pasa el elemento escrito a la variable
         elementoLista.appendChild(li); //FInalmente se añade el amigo a la lista en el html
     }
+
+    console.log(listaAmigos);
 }
 
 //
